@@ -83,7 +83,7 @@ def menu_principal():
 def main():
     endereco = "neo4j://localhost:7687"
     user = "neo4j"
-    password = "senha"
+    password = "921737383"
 
     plataforma = PlataformaConexoes(endereco, user, password)
 
